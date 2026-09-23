@@ -1,0 +1,125 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "复旦未来技术研究院",
+    "description": "",
+    "home_page_url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git",
+    "feed_url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "研究院办公室"
+    },
+    "items": [
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/fall-2026-meeting.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/fall-2026-meeting.html",
+            "title": "研究院召开2026年秋季学期工作部署会",
+            "summary": "研究院召开2026年秋季学期工作部署会，明确教学、科研与平台建设重点任务。",
+            "content_html": "<p>研究院召开2026年秋季学期工作部署会，明确教学、科研与平台建设重点任务。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-16T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/nkp-project.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/nkp-project.html",
+            "title": "未来技术研究院获批国家重点研发计划项目",
+            "summary": "未来技术研究院获批国家重点研发计划项目，将持续推进相关交叉方向的基础研究。",
+            "content_html": "<p>未来技术研究院获批国家重点研发计划项目，将持续推进相关交叉方向的基础研究。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-15T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/nature-paper.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/nature-paper.html",
+            "title": "我院学者在《Nature》子刊发表最新研究成果",
+            "summary": "我院学者在《Nature》子刊发表最新研究成果。详细作者与论文信息可在此页补充。",
+            "content_html": "<p>我院学者在《Nature》子刊发表最新研究成果。详细作者与论文信息可在此页补充。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-14T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/industry-cooperation.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/industry-cooperation.html",
+            "title": "研究院与多家头部企业签署战略合作协议",
+            "summary": "研究院与多家头部企业签署战略合作协议，推动产学研协同与人才培养。",
+            "content_html": "<p>研究院与多家头部企业签署战略合作协议，推动产学研协同与人才培养。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-13T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/phd-open-day-2027.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/phd-open-day-2027.html",
+            "title": "《AI与未来技术》2027级博士招生宣讲会",
+            "summary": "《AI与未来技术》2027级博士招生宣讲会将介绍培养方案、导师方向与申请流程。",
+            "content_html": "<p>《AI与未来技术》2027级博士招生宣讲会将介绍培养方案、导师方向与申请流程。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-12T22:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/future-tech-forum-2026.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/future-tech-forum-2026.html",
+            "title": "研究院举办2026年未来技术论坛",
+            "summary": "研究院举办2026年未来技术论坛，邀请校内外学者围绕人工智能、生命健康与先进制造展开交流。",
+            "content_html": "<p>研究院举办2026年未来技术论坛，邀请校内外学者围绕人工智能、生命健康与先进制造展开交流。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-12T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/phd-admission-2027.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/phd-admission-2027.html",
+            "title": "2027级博士研究生招生简章发布",
+            "summary": "2027级博士研究生招生简章现已发布，欢迎有志于未来技术交叉研究的同学申请。",
+            "content_html": "<p>2027级博士研究生招生简章现已发布，欢迎有志于未来技术交叉研究的同学申请。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-10T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        },
+        {
+            "id": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/ai-health-seminar.html",
+            "url": "https://gitea.fift.org.cn/kang/Fudan-IFT-web.git/ai-health-seminar.html",
+            "title": "人工智能与未来医疗交叉研讨会",
+            "summary": "人工智能与未来医疗交叉研讨会在院内举行，讨论智能诊疗、医学影像与健康大数据等方向。",
+            "content_html": "<p>人工智能与未来医疗交叉研讨会在院内举行，讨论智能诊疗、医学影像与健康大数据等方向。</p>",
+            "author": {
+                "name": "研究院办公室"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-08T18:00:00+08:00",
+            "date_modified": "2026-09-22T11:29:34+08:00"
+        }
+    ]
+}

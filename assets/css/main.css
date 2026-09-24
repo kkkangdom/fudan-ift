@@ -701,3 +701,7 @@ h1, h2, h3, h4 { color: var(--brand); font-weight: 600; }
   .article__cover { height: 320px; }
   .footer__bottom-inner { flex-direction: row; }
 }
+
+.banner[style*="background-image"] { background-blend-mode: overlay; }
+.banner__slide[data-image] .banner__title,
+.banner__slide[data-image] .banner__subtitle { text-shadow: 0 8px 24px rgba(0,0,0,.35); }

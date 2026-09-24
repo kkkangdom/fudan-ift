@@ -33,6 +33,16 @@
         function applyTone() {
             banner.className = banner.className.replace(/\bbanner--[a-z]+\b/g, '').replace(/\s+/g, ' ').trim();
             banner.classList.add('banner--' + (tones[index] || 'brand'));
+            var image = slides[index] ? slides[index].getAttribute('data-image') : '';
+            if (image) {
+                banner.style.backgroundImage = 'linear-gradient(120deg, rgba(10,42,94,.62), rgba(10,42,94,.28)), url("' + image + '")';
+                banner.style.backgroundSize = 'cover';
+                banner.style.backgroundPosition = 'center';
+            } else {
+                banner.style.backgroundImage = '';
+                banner.style.backgroundSize = '';
+                banner.style.backgroundPosition = '';
+            }
         }
 
         if (dotsBox) {

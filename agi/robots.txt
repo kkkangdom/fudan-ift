@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://agi.fift.org.cn/sitemap.xml

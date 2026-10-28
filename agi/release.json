@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "site": "agi-lab-standalone",
+  "domain": "https://agi.fift.org.cn",
+  "entry_sha256": "13d1205276894af67ded3dcf205a18e458c4ae237dc6bdf63875d95c10ef489d",
+  "runtime_sha256": "9c4eccf20367bfaefc205fd2b127236515dfebd3691f4879a50223d05f0b8517"
+}

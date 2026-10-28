@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" fill="none">
+  <defs>
+    <linearGradient id="bg" x2="1280" y2="800" gradientUnits="userSpaceOnUse"><stop stop-color="#f1f7ff"/><stop offset="1" stop-color="#dee9fc"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#b4d2ff" stop-opacity=".7"/><stop offset="1" stop-color="#b4d2ff" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#0e419c" opacity=".14"/></pattern>
+    <linearGradient id="core" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#2355ac"/><stop offset="1" stop-color="#0e3276"/></linearGradient>
+  </defs>
+  <rect width="1280" height="800" rx="20" fill="url(#bg)"/><rect width="1280" height="800" fill="url(#dots)"/>
+  <ellipse cx="650" cy="400" rx="570" ry="370" fill="url(#glow)"/>
+  <g stroke="#638bc8" stroke-width="2" opacity=".65"><path d="M365 260h110q40 0 40 40v100h125M365 540h110q40 0 40-40V400M915 260H805q-40 0-40 40v100H640M915 540H805q-40 0-40-40V400"/></g>
+  <g fill="#fff" fill-opacity=".85" stroke="#bfceea">
+    <rect x="125" y="195" width="240" height="130" rx="16"/><rect x="125" y="475" width="240" height="130" rx="16"/>
+    <rect x="915" y="195" width="240" height="130" rx="16"/><rect x="915" y="475" width="240" height="130" rx="16"/>
+  </g>
+  <g transform="translate(545 305)"><rect width="190" height="190" rx="32" fill="url(#core)"/><rect x="1" y="1" width="188" height="188" rx="31" stroke="#8ab5ff" stroke-opacity=".6"/>
+    <g stroke="#c9dfff" stroke-width="2"><circle cx="65" cy="68" r="12"/><circle cx="125" cy="68" r="12"/><circle cx="95" cy="117" r="12"/><path d="m71 78 18 29m30-29-18 29M77 68h36"/></g>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="22" letter-spacing="2" fill="#164487"><text x="165" y="249">KNOWLEDGE</text><text x="165" y="529">EXPERIENCE</text><text x="955" y="249">ROLE</text><text x="955" y="529">CONTEXT</text></g>
+  <g stroke="#93add4" stroke-width="6" stroke-linecap="round"><path d="M166 279h118m-118 22h78M166 559h112m-112 22h87M956 279h119m-119 22h71M956 559h107m-107 22h82"/></g>
+  <g font-family="Arial,sans-serif" text-anchor="middle"><text x="640" y="150" fill="#315585" font-size="18" letter-spacing="4">TALENT INTELLIGENCE</text><text x="640" y="582" fill="#164487" font-size="22" letter-spacing="2">SEMANTIC MATCHING</text><text x="640" y="682" fill="#60799b" font-size="16" letter-spacing="2">CONCEPT ILLUSTRATION · NO LIVE DATA</text></g>
+</svg>

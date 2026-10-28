@@ -1,0 +1,7 @@
+{
+  "site": "agi-lab-standalone",
+  "domain": "https://agi.fift.org.cn",
+  "publishing": "Publii native Git",
+  "repository": "kang/FIFT-web",
+  "branch": "main"
+}
